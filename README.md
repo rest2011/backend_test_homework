@@ -23,7 +23,7 @@ deactivate
 ```
 Запускаем осноной модуль
 ```
-python main.py
+python program.py
 ```
 
 ## Автор
